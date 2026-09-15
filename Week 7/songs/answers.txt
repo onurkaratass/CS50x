@@ -1,0 +1,1 @@
+Spotify Wrapped might use this data to calculate average audio traits (like danceability or energy) for each user to define their listening persona, identify their favorite artists and recurring collaborations, and generate customized playlists based on tempo or mood.
