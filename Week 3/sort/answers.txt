@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: sort1 is extremely fast on sorted50000.txt compared to random50000.txt and reversed50000.txt, which indicates an O(n) best-case running time characteristic of bubble sort.
+
+sort2 uses: Merge Sort
+
+How do you know?: sort2 is significantly faster than both sort1 and sort3 on large unsorted lists like random50000.txt and reversed50000.txt, reflecting an O(n log n) running time across all cases.
+
+sort3 uses: Selection Sort
+
+How do you know?: sort3 takes roughly the same amount of time on sorted50000.txt as it does on reversed50000.txt and random50000.txt, showing an O(n^2) running time regardless of the initial order.
